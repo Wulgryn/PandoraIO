@@ -94,7 +94,7 @@
     <!--<Define>DEBUG</Define>-->
   </Defines>
   <LinkedProjects StopBuildOnFail="true">
-    <ProjectReference RelativePath="..\PandoraEX\project.tproj" SubBuild="true" Path="G:\OneDrive\Codes\Eden Projects\Pandora Engine\PandoraEX\project.tproj" />
+    <ProjectReference RelativePath="..\PandoraEX\project.tproj" SubBuild="true" Path="G:\OneDrive\Codes\Eden Projects\EdenFX\PandoraEX\project.tproj" />
     <!--<ProjectReference Path="" RelativePath="" SubBuild="false"/>
 		Only 'Path' or 'RelativePath' is required.
 		'SubBuild': If the referenced project should be built before this project builded.-->
